@@ -1,0 +1,66 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color:#40E0D0;
+    align-items: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid black; width: 900px;
+    border-collapse: collapse;
+    
+}
+
+.BtnLogout{
+    background-color: #FF8C00;
+    border: #8d5005 solid 1px;
+    border-radius: 5px;
+}
+
+.btnIserir{
+    background-color: #00FF7F;
+    border: #027e40 solid 1px;
+    border-radius: 5px;
+}
+
+
+tr {
+    text-align: center;
+}
+
+.linhaTitulo{
+    background: rgb(243, 94, 7);
+}
+
+.linhaTituloHistorico{
+    background: rgb(132, 194, 82);
+}
+
+.col200{
+    width: 200px;
+}
+
+.col100{
+    width: 100px;
+}
+
+input {
+    margin-right: 10px;
+    background-color: #d3d8be;
+    border: #6e6c50 solid 1px;
+}
+
+.container {
+    width: 900px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.tabelas{
+    border:black; 
+    width: 900px;
+}

@@ -1,0 +1,33 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color:#00FA9A;
+    align-items: center;
+}
+
+h1{
+    color: #0000ff;
+}
+
+.autor{
+    color: #0000FF;
+}
+
+    .button{
+        background-color: #FF4500;
+        border: #FF4500 solid;
+        border-radius: 5px;
+    }
+    
+.container {
+    width: 20em;
+    padding: 5px 5px 5px 5px;
+    background-color: #20B2AA;
+    overflow: hidden;
+    border-radius: 1em;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1em;
+}
